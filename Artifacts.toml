@@ -1,0 +1,95 @@
+[[ffts]]
+arch = "aarch64"
+git-tree-sha1 = "e80a915ffad95b81576df8b69241b998384608ef"
+libc = "glibc"
+os = "linux"
+
+    [[ffts.download]]
+    sha256 = "9bed9ff00ce22e3d1179a0d9c49d18b2030bdaa90630293da8094619a73014df"
+    url = "https://github.com/JuliaBinaryWrappers/ffts_jll.jl/releases/download/ffts-v0.9.0+0/ffts.v0.9.0.aarch64-linux-gnu.tar.gz"
+[[ffts]]
+arch = "aarch64"
+git-tree-sha1 = "c31dc3e013649f1629889209cded0ec0c02a47d3"
+libc = "musl"
+os = "linux"
+
+    [[ffts.download]]
+    sha256 = "1e9b0d8e25b3ac678ca1788915ea21084008863fb4c63de5195ebefcadfcddea"
+    url = "https://github.com/JuliaBinaryWrappers/ffts_jll.jl/releases/download/ffts-v0.9.0+0/ffts.v0.9.0.aarch64-linux-musl.tar.gz"
+[[ffts]]
+arch = "i686"
+git-tree-sha1 = "26ff0b234bc99d4536740bd0398c21b42d41840d"
+libc = "glibc"
+os = "linux"
+
+    [[ffts.download]]
+    sha256 = "0498a7c41054472b81c1efd21a9f2ecc746bbc4b8ea82161ebe2b0adf5118bd8"
+    url = "https://github.com/JuliaBinaryWrappers/ffts_jll.jl/releases/download/ffts-v0.9.0+0/ffts.v0.9.0.i686-linux-gnu.tar.gz"
+[[ffts]]
+arch = "i686"
+git-tree-sha1 = "74e7c328509560b8f623f240b570d637c08a2b0c"
+libc = "musl"
+os = "linux"
+
+    [[ffts.download]]
+    sha256 = "26d8d287b9b9e49f85a3f4fd5800b106fb87b0d3bfcecf038b0ae6fdd4d732ec"
+    url = "https://github.com/JuliaBinaryWrappers/ffts_jll.jl/releases/download/ffts-v0.9.0+0/ffts.v0.9.0.i686-linux-musl.tar.gz"
+[[ffts]]
+arch = "i686"
+git-tree-sha1 = "57bfbf8d3cb90becb28d5cd2833fd225d0d11d92"
+os = "windows"
+
+    [[ffts.download]]
+    sha256 = "61b8a4103c992150aa5bfb2320eeaceec56f48db62f8aa198a39962546ed0386"
+    url = "https://github.com/JuliaBinaryWrappers/ffts_jll.jl/releases/download/ffts-v0.9.0+0/ffts.v0.9.0.i686-w64-mingw32.tar.gz"
+[[ffts]]
+arch = "powerpc64le"
+git-tree-sha1 = "d5581a3791c9dc3caf2d1130bfaf567a97603db7"
+libc = "glibc"
+os = "linux"
+
+    [[ffts.download]]
+    sha256 = "f1c71b6834da8005a1bcb56a1b4901526cecb96efd8e60c16515335873da7a66"
+    url = "https://github.com/JuliaBinaryWrappers/ffts_jll.jl/releases/download/ffts-v0.9.0+0/ffts.v0.9.0.powerpc64le-linux-gnu.tar.gz"
+[[ffts]]
+arch = "x86_64"
+git-tree-sha1 = "d9b282820980f753aabd899dfb982f03d1dcfb12"
+os = "macos"
+
+    [[ffts.download]]
+    sha256 = "b084d9a9c5785a10bd1d2f58ff099d8b80b741b2ab585ccaf2c30c92605e9e8b"
+    url = "https://github.com/JuliaBinaryWrappers/ffts_jll.jl/releases/download/ffts-v0.9.0+0/ffts.v0.9.0.x86_64-apple-darwin.tar.gz"
+[[ffts]]
+arch = "x86_64"
+git-tree-sha1 = "ec2940d9e44fd426966fda0cee918998775774cb"
+libc = "glibc"
+os = "linux"
+
+    [[ffts.download]]
+    sha256 = "13941d0a264a252ddb5f36e8f2a9b849f292276bb4f4369e2415ea2f46b1f41f"
+    url = "https://github.com/JuliaBinaryWrappers/ffts_jll.jl/releases/download/ffts-v0.9.0+0/ffts.v0.9.0.x86_64-linux-gnu.tar.gz"
+[[ffts]]
+arch = "x86_64"
+git-tree-sha1 = "bb8c3f8caddf1372091a122408b751417feab7d5"
+libc = "musl"
+os = "linux"
+
+    [[ffts.download]]
+    sha256 = "94021e312c92f0b5df0b6a11bdcfd52dac1d46d99e1ff74a446e4a5d9b768b3a"
+    url = "https://github.com/JuliaBinaryWrappers/ffts_jll.jl/releases/download/ffts-v0.9.0+0/ffts.v0.9.0.x86_64-linux-musl.tar.gz"
+[[ffts]]
+arch = "x86_64"
+git-tree-sha1 = "f896d9070b335f5f577349c601b64310b24e8c9c"
+os = "freebsd"
+
+    [[ffts.download]]
+    sha256 = "b9601cb1a69b05a73bffae5a19d219360774c1f0fadc88b3ab17d7b4315132b8"
+    url = "https://github.com/JuliaBinaryWrappers/ffts_jll.jl/releases/download/ffts-v0.9.0+0/ffts.v0.9.0.x86_64-unknown-freebsd.tar.gz"
+[[ffts]]
+arch = "x86_64"
+git-tree-sha1 = "907473742d32089decdcb968a0b8ded873ab692f"
+os = "windows"
+
+    [[ffts.download]]
+    sha256 = "532c9c77e18e963c84a167c8895a06270eb7bec956ef6fec01b671a5d213759d"
+    url = "https://github.com/JuliaBinaryWrappers/ffts_jll.jl/releases/download/ffts-v0.9.0+0/ffts.v0.9.0.x86_64-w64-mingw32.tar.gz"
