@@ -1,6 +1,6 @@
 name = "ffts_jll"
 uuid = "84ad2fbc-dacc-5b40-99f5-8db9d02a0a8a"
-version = "0.9.0+0"
+version = "0.9.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
